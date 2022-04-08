@@ -382,3 +382,25 @@
  "version":"1.6",
  "width":31
 }
+{ "columns":35,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"json",
+         "target":"Test.jsn.tsj"
+        }
+    },
+ "image":"..\/pine_log_cabin_1_-01.png",
+ "imageheight":706,
+ "imagewidth":1123,
+ "margin":0,
+ "name":"Test",
+ "spacing":0,
+ "tilecount":770,
+ "tiledversion":"1.8.4",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.8"
+}
